@@ -1,27 +1,35 @@
 1:
     zh-TW: 已滿
     en-US: Full
+    ja:
 9:
     zh-TW: 可使用
     en-US: Available
+    ja:
 10:
     zh-TW: 質變儀不存在
     en-US: P.T. not found
+    ja:
 11:
     zh-TW: 已完成的每日數量
     en-US: Dailies finished
+    ja:
 12:
     zh-TW: 質變儀剩餘時間
     en-US: P.T. remaining time
+    ja:
 13:
     zh-TW: 樹脂
     en-US: Resin
+    ja:　樹脂
 14:
     zh-TW: 目前
     en-US: Current
+    ja:現在
 15:
     zh-TW: 回復時間
     en-US: Recovery time
+    ja:　回復時間
 16:
     zh-TW: 周本減半次數
     en-US: Resin discounts
@@ -85,9 +93,11 @@
 36:
     zh-TW: 無效的 cookie
     en-US: Cookie invalid
+    ja:
 37:
     zh-TW: 已取消設定帳號
     en-US: Account register cancelled
+    ja
 38:
     zh-TW: 帳號內沒有任何角色
     en-US: No valid accounts were obtained from the cookie
